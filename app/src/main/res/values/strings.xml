@@ -1,0 +1,8 @@
+<resources>
+    <string-array name="currencies">
+        <item>USD</item>
+        <item>EUR</item>
+        <item>THB</item>
+        <!-- เพิ่มสกุลเงินตามต้องการ -->
+    </string-array>
+</resources>
