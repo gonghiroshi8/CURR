@@ -1,3 +1,12 @@
 <resources>
+<<<<<<< HEAD
     <string name="app_name">CURR</string>
+=======
+    <string-array name="currencies">
+        <item>USD</item>
+        <item>EUR</item>
+        <item>THB</item>
+        <!-- เพิ่มสกุลเงินตามต้องการ -->
+    </string-array>
+>>>>>>> 05016b0212eaf5d3c1c2398839be99833088a8fb
 </resources>
